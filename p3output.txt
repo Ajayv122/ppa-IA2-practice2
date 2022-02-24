@@ -1,1 +1,8 @@
-
+gcc -g p1original.c
+ ./a.out
+enter the height and base
+5
+5
+the area of triangle with 5.000000 and height 5.000000 if is12.500000 ^C
+ ^C
+ 
