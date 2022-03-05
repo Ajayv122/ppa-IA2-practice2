@@ -1,1 +1,17 @@
 
+ gcc -g p1original.c
+ gcc -g p4original.c
+ ./a.out
+enter the number of input5
+enter an element:
+1
+enter an element:
+2
+enter an element:
+3
+enter an element:
+4
+enter an element:
+5
+4 is the output 
+
